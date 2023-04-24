@@ -1,4 +1,4 @@
-const path = '/workspace/project/xing/webgpu-node/use-dotnode-file/dawn.node';
+const path = '/dawn/out/dawn.node';
 //const gpuProviderModule = require(path);
 const gpuProviderModule = require('bindings')('dawn');
 
