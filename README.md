@@ -24,6 +24,12 @@ const path = '/dawn/out/dawn.node';
 const gpuProviderModule = require('bindings')('dawn');
 ```
 
+## Writing a cpp node addon
 
+https://github.com/nodejs/node-addon-examples/tree/main/1_hello_world/node-addon-api
+
+## WebGPU and TFJS on node
+
+https://github.com/axinging/webgpu-node
 
 
