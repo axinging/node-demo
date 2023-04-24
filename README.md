@@ -8,7 +8,7 @@ var addon = require(path);
 console.log(addon.hello()); // 'world'
 ```
 
-### use-dotnode
+### use-dawnnode
 This is almost the same as use-dotnode. But this willnot print a `hello`, this will do a WebGPu computing.
 ```
 const path = '/yourfolder/dawn.node';
